@@ -179,13 +179,13 @@ body {
 
 /* green header */
 header {
-	background: #1C3542;
-	border-color: #569199;
+	background: #4a8cb6;
+	border-color: #c73937;
 }
 
 /* nav background on mobile */
 nav {
-	background: #569199;
+	background: #4a8cb6;
 }
 
 /* logo text */
@@ -195,7 +195,7 @@ h1, h2 {
 
 /* links */
 a {
-	color: #569199;
+	color: #c73937;
 }
 
 /* nav link */
